@@ -1,0 +1,6 @@
+*.pyc
+
+#资源文件
+imgs/
+music/
+bgmusic/
