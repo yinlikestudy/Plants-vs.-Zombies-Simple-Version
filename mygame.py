@@ -232,7 +232,7 @@ class Zombie(Plant):
     def __init__(self,x,y,gmstates):
         super().__init__()
         self.gmstates = gmstates
-        self.img = self.load_transform('imgs/jiaxue.jpg')
+        self.img = self.load_transform('imgs\FootballZombie\FootballZombie_0.png')
         self.rect = self.img.get_rect().move(x*patch_size,y*patch_size)
         self.hp = 100
         self.atp = 1

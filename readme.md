@@ -7,11 +7,8 @@ Python开发植物大战僵尸游戏用pygame框架。
 ## 玩法：
 
 鼠标左键：种植太阳花，收取阳光。
-
 鼠标右键：种植植物
-
 空格：调出铲子。
-
 空格+左键：铲除植物。
 
 ## 先决条件
@@ -28,6 +25,8 @@ git clone https://github.com/yinlikestudy/Plants-vs.-Zombies-Simple-Version.git
 cd Plants-vs.-Zombies-Simple-Version
 python mygame.py
 ```
+
+<img src="https://s2.loli.net/2024/12/21/v5pZRN8yUx6IcLh.png" alt="image-20241221144736014" style="zoom:50%;" />
 
 ## 已完成功能 (do)
 
